@@ -1,0 +1,1048 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 1024px) {
+    .navbar a {
+        font-size: 12px;
+    }
+
+    .begin-block img {
+        height: 343px;
+    }
+
+    .about-tw h1 {
+        font-size: 38px;
+    }
+
+    .space-img-one {
+        top: 80px;
+        right: 0;
+        position: absolute;
+    }
+
+    .hero-general h1 {
+        font-size: 54px;
+        margin-top: -2px;
+    }
+
+    .hero-general button {
+        width: 220px;
+        height: 58px;
+    }
+
+    .space-block h1 {
+        font-size: 49px;
+        padding-top: -8px;
+    }
+
+    .space-block p {
+        font-size: 22px;
+        padding-top: 19px;
+    }
+
+    .content-aa img {
+        width: 90%;
+    }
+
+    .content-block {
+        width: 787px;
+        height: 336px;
+        border-radius: 65px;
+    }
+
+    .content-two h1 {
+        font-size: 48px;
+        padding-top: 55px;
+    }
+
+    .content-two p {
+        font-size: 21px;
+        padding: 39px 0;
+    }
+
+    .content-two button {
+        width: 235px;
+        height: 64px;
+        font-size: 16px;
+    }
+
+    .content-general img {
+        width: 90%;
+    }
+
+    .content-title h1 {
+        font-size: 47px;
+    }
+
+    .content-title p {
+        font-size: 22px;
+    }
+
+    .content-block img {
+        width: 38px
+    }
+
+    .swiper {
+        width: 227px;
+        height: 295px;
+    }
+
+    .liven-general img {
+        height: 318px;
+        width: 471px;
+        margin-left: 22px;
+    }
+
+    .liven-title {
+        font-size: 46px;
+    }
+
+    .hero-img img {
+        width: 90%;
+    }
+
+    .hero-img1 img {
+        width: 280px;
+        bottom: 3px;
+        height: 483px;
+    }
+
+    .space-img-one img {
+        width: 373px;
+        height: 519px;
+        left: 578px;
+        top: 334px;
+
+    }
+
+    .space-img-one {
+        right: 145px;
+    }
+
+    .space-img-two img {
+        width: 309px;
+        top: 65px;
+        height: 585px;
+    }
+
+    .bolt-gen h1 {
+        font-size: 46px;
+    }
+
+    .bolt-gen p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 992px) {
+    .begin-block img {
+        height: 325px;
+    }
+
+    .navbar a {
+        padding-left: 92px;
+    }
+}
+
+@media (max-width: 766px) {
+    .navbar a {
+        padding-left: 50px;
+    }
+
+    .hero-general h1 {
+        font-size: 39px;
+        margin-top: -46px;
+    }
+
+    .hero-general h2 {
+        font-size: 17px;
+        margin-top: 38px;
+    }
+
+    .hero-img1 img {
+        width: 247px;
+        bottom: -1px;
+        height: 375px;
+    }
+
+    .hero-general button {
+        width: 187px;
+        height: 49px;
+    }
+
+    .hero-general button {
+        font-size: 15px;
+        margin-top: 35px;
+    }
+
+    .space-img-one img {
+        width: 295px;
+        height: 394px;
+        top: 142px;
+    }
+
+    .space-img-two img {
+        width: 245px;
+        height: 424px;
+    }
+
+    .space-block h1 {
+        padding-top: -4px;
+        margin: -198px -11px -6px -74px;
+        font-size: 40px;
+    }
+
+    .space-block p {
+        font-size: 21px;
+        padding-top: 12px;
+    }
+
+    .about-general img {
+        width: 504px;
+        height: 306px;
+    }
+
+    .about-tw h1 {
+        font-size: 35px;
+        margin: 0 0 18px -2px;
+    }
+
+    .bolt img {
+        width: 445px;
+        height: 283px;
+    }
+
+    .bolt {
+        justify-content: center;
+    }
+
+    .bolt-gen h1 {
+        font-size: 36px;
+    }
+
+    .bolt-gen p {
+        font-size: 25px;
+    }
+
+    .brat h1 {
+        font-size: 43px;
+    }
+
+    .brat p {
+        font-size: 17px;
+    }
+
+    .swiper {
+        padding-left: 88px;
+    }
+
+    .begin-title h1 {
+        font-size: 49px;
+    }
+
+    .begin-title p {
+        font-size: 21px;
+        padding-top: 13px;
+    }
+
+    .begin-block img {
+        height: 242px;
+    }
+
+    .begin-block img {
+        left: 80px;
+        padding: 53px 8px 0 2px;
+    }
+
+    .content-title h1 {
+        font-size: 35px;
+    }
+
+    .content-title p {
+        font-size: 19px;
+    }
+
+    .content-block {
+        width: 546px;
+        height: 285px;
+        border-radius: 45px;
+    }
+
+    .content-two h1 {
+        font-size: 34px;
+        padding-top: 38px;
+    }
+
+    .content-two button {
+        width: 174px;
+        height: 48px;
+        font-size: 11px;
+    }
+
+    .content-two p {
+        font-size: 18px;
+        padding: 39px 0;
+    }
+
+    .content-block img {
+        width: 29px;
+    }
+
+    .content-aa h1 {
+        font-size: 31px;
+    }
+
+    .liven {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .liven-general img {
+        height: 361px;
+        width: 608px;
+        margin-left: 15px;
+        margin-top: 19px;
+    }
+
+    #footer {
+        background: black;
+        padding-top: -29px;
+    }
+
+    .footer-general {
+        justify-content: center;
+    }
+
+    .footer-title {
+        align-items: start;
+    }
+
+    .footer-title h1 {
+        font-size: 18px;
+        padding-bottom: 12px;
+    }
+
+    .footer-title p {
+        font-size: 12px;
+        padding: 9px;
+    }
+
+    .footer-general img {
+        padding-right: 12px;
+    }
+}
+
+@media (max-width: 576px) {
+    .hamburger-menu {
+        display: block;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .hero-general h1 {
+        font-size: 28px;
+        margin-top: -93px;
+    }
+
+    .hero-img1 img {
+        width: 180px;
+        bottom: -4px;
+        height: 286px;
+        right: 32px;
+    }
+
+    .hero-general button {
+        font-size: 13px;
+        margin-top: 26px;
+    }
+
+    .hero-general button {
+        width: 160px;
+        height: 40px;
+    }
+
+    .space-block h1 {
+        margin: -150px 50px -16px -77px;
+        font-size: 28px;
+    }
+
+    .space-block p {
+        font-size: 18px;
+        padding-top: 18px;
+        padding-right: 118px;
+    }
+
+    .space-img-one img {
+        width: 224px;
+        height: 252px;
+    }
+
+    .space-img-two img {
+        width: 175px;
+        height: 307px;
+    }
+
+    .about-general {
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+
+    #about {
+        background: #222222;
+        padding-top: 1px;
+    }
+
+    #space {
+        background: #222222;
+        min-height: 55vh;
+        padding: 13px;
+    }
+
+    .about-tw h1 {
+        font-size: 28px;
+        margin: 0 0 8px 0;
+    }
+
+    .about-tw p {
+        font-size: 21px;
+    }
+
+    .about-tw span {
+        font-size: 17px;
+    }
+
+    .about-general img {
+        width: 487px;
+        height: 279px;
+        padding-left: 35px;
+    }
+
+    .bolt {
+        flex-direction: column;
+    }
+
+    .bolt-gen h1 {
+        font-size: 30px;
+        padding-left: 106px;
+    }
+
+    .bolt-gen p {
+        font-size: 21px;
+    }
+
+    .bolt-gen span {
+        font-size: 18px;
+    }
+
+    .brat {
+        flex-direction: column-reverse;
+    }
+
+    .brat h1 {
+        font-size: 31px;
+    }
+
+    #brat {
+        padding-top: 72px;
+    }
+
+    #bolt {
+        padding-top: 82px;
+    }
+
+    .brat span {
+        font-size: 18px;
+    }
+
+    .swiper-slide img {
+        width: 79px;
+        height: 73px;
+        padding-bottom: 208px;
+        padding-right: 130px;
+    }
+
+    .swiper {
+        width: 209px;
+        height: 274px;
+    }
+
+    .begin-title h1 {
+        font-size: 38px;
+    }
+
+    .begin-block img {
+        left: 80px;
+        padding: 7px 7px 0 4px;
+    }
+
+    .begin-block img {
+        height: 185px;
+    }
+
+    #content {
+        padding-top: 29px;
+    }
+
+    .content-title h1 {
+        font-size: 28px;
+    }
+
+    .content-aa img {
+        width: 536px;
+        height: 263px;
+    }
+
+    .content-general button img {
+        width: 30px;
+        height: 191px;
+    }
+
+    .content-aa h1 {
+        font-size: 22px;
+    }
+
+    .content-block {
+        width: 484px;
+        height: 239px;
+        border-radius: 28px;
+    }
+
+    .content-two p {
+        font-size: 16px;
+        padding: 34px 0;
+    }
+
+    .liven-title {
+        font-size: 32px;
+        padding-bottom: 35px;
+    }
+
+    .liven-general img {
+        height: 251px;
+        width: 474px;
+        margin-left: -43px;
+        margin-top: 30px;
+    }
+
+    .footer-general {
+        align-items: start;
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .hero-general h1 {
+        font-size: 23px;
+        margin-top: -107px;
+    }
+
+    .hero-general h2 {
+        font-size: 12px;
+        margin-top: 30px;
+    }
+
+    .hero-general button {
+        width: 106px;
+        height: 33px;
+    }
+
+    .hero-img1 img {
+        width: 129px;
+        bottom: -11px;
+        height: 234px;
+        right: 27px;
+    }
+
+    .hero-general p {
+        font-size: 6px;
+        margin: 11px 0 16px 0;
+    }
+
+    .space-img-two img {
+        width: 133px;
+        height: 245px;
+    }
+
+    .space-img-one {
+        right: 9px;
+        top: 9px;
+    }
+
+    .space-block h1 {
+        margin: -75px -37px -20px -93px;
+        font-size: 26px;
+    }
+
+    #hero {
+        min-height: 65vh;
+    }
+
+    .space-block h1 {
+        margin: -53px -25px -17px -91px;
+        font-size: 26px;
+    }
+
+    .space-block p {
+        font-size: 13px;
+        padding-top: 21px;
+        padding-right: 35px;
+        margin-right: 80px;
+    }
+
+    .nav img {
+        margin: -19px;
+    }
+
+    .menu__btn {
+        top: 5px;
+        right: 12px;
+        width: 20px;
+        height: 26px;
+    }
+
+    .about-tw h1 {
+        font-size: 26px;
+        margin: -22px 180px 4px 2px;
+    }
+
+    .about-tw p {
+        font-size: 16px;
+        padding-right: 87px;
+    }
+
+    .about-general img {
+        width: 339px;
+        height: 197px;
+        padding-left: 4px;
+        padding-top: 14px;
+    }
+
+    #bolt {
+        padding-top: 48px;
+    }
+
+    .bolt-gen h1 {
+        font-size: 24px;
+        padding-left: 2px;
+    }
+
+    .bolt-gen p {
+        font-size: 19px;
+    }
+
+    .bolt img {
+        width: 330px;
+        height: 197px;
+        padding-top: 21px;
+    }
+
+    .brat h1 {
+        font-size: 28px;
+    }
+
+    .swiper {
+        width: 210px;
+        height: 254px;
+        padding-top: 21px;
+        padding-right: 24px;
+    }
+
+    .swiper-slide img {
+        width: 90px;
+        height: 54px;
+        padding-bottom: 177px;
+        padding-right: 119px;
+    }
+
+    .begin-title h1 {
+        font-size: 30px;
+        padding-right: 108px;
+    }
+
+    .begin-lin {
+        width: 123px;
+        height: 3px;
+        margin-right: 144px;
+    }
+
+    .begin-block img {
+        height: 311px;
+        width: 213px;
+        margin-right: 114px;
+    }
+
+    .begin-block {
+        flex-direction: column;
+    }
+
+    .begin-title p {
+        font-size: 15px;
+        padding-top: 12px;
+    }
+
+    .content-title p {
+        font-size: 10px;
+    }
+
+    .content-title h2 {
+        font-size: 17px;
+        padding-top: 4px;
+    }
+
+    .content-title h1 {
+        font-size: 22px;
+    }
+
+    .content-block {
+        width: 386px;
+        height: 207px;
+        border-radius: 33px;
+    }
+
+    .content-two h1 {
+        font-size: 27px;
+        padding-top: 26px;
+    }
+
+    .content-two p {
+        font-size: 8px;
+        padding: 27px 0;
+    }
+
+    .content-two button {
+        width: 136px;
+        height: 38px;
+        font-size: 9px;
+    }
+
+    .content-general button img {
+        width: 19px;
+        height: 191px;
+    }
+
+    .content-aa img {
+        width: 428px;
+        height: 208px;
+    }
+
+    .content-aa p {
+        font-size: 13px;
+        padding-top: 120px;
+    }
+
+    .content-aa h1 {
+        font-size: 19px;
+    }
+
+    #liven {
+        padding-top: 34px;
+        padding-bottom: 48px;
+    }
+
+    .liven-general img {
+        height: 206px;
+        width: 374px;
+        margin-left: -26px;
+        margin-top: 13px;
+    }
+
+    .footer-general img {
+        padding-right: 41px;
+        width: 143px;
+        height: 44px;
+    }
+
+    .footer-icon {
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .footer-icon img {
+        padding-right: 0;
+        width: 30px;
+        height: 28px;
+    }
+
+    .footer-title h1 {
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+}
+
+@media (max-width: 375px) {
+    .hero-img1 img {
+        width: 105px;
+        height: 202px;
+    }
+
+    #nav {
+        /* width: 90%; */
+        height: 30px;
+    }
+
+    .space-img-two img {
+        width: 107px;
+        height: 203px;
+    }
+
+    .space-img-one img {
+        width: 187px;
+        height: 212px;
+    }
+
+    .space-block h1 {
+        font-size: 20px;
+    }
+
+    .space-block p {
+        font-size: 11px;
+        margin-right: 58px;
+    }
+
+    .about-tw h1 {
+        font-size: 19px;
+    }
+
+    .about-tw p {
+        font-size: 13px;
+        padding-right: 86px;
+    }
+
+    .about-tw span {
+        font-size: 10px;
+    }
+
+    .about-general img {
+        width: 285px;
+        height: 167px;
+        padding-right: 75px;
+        padding-top: 12px;
+    }
+
+    .bolt-gen h1 {
+        font-size: 21px;
+    }
+
+    .bolt-gen p {
+        font-size: 17px;
+        margin-right: 24px;
+    }
+
+    .bolt-gen span {
+        font-size: 12px;
+    }
+
+    .bolt img {
+        width: 281px;
+        height: 172px;
+        padding-right: 50px;
+    }
+
+    .brat h1 {
+        font-size: 23px;
+    }
+
+    .brat span {
+        font-size: 15px;
+    }
+
+    .swiper {
+        width: 172px;
+        height: 203px;
+        padding-right: 64px;
+    }
+
+    .swiper-slide img {
+        width: 80px;
+        height: 43px;
+        padding-bottom: 138px;
+        padding-right: 95px;
+    }
+
+    .begin-title h1 {
+        font-size: 23px;
+        padding-right: 156px;
+    }
+
+    .begin-block img {
+        height: 310px;
+        width: 213px;
+        margin-right: 114px;
+        padding: 24px 7px 0 4px;
+    }
+
+    #begin {
+        padding-top: 34px;
+    }
+
+    .content-aa img {
+        width: 358px;
+        height: 175px;
+    }
+
+    .content-block {
+        width: 319px;
+        height: 180px;
+        border-radius: 22px;
+    }
+
+    .liven-title {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+
+    .liven-general img {
+        height: 160px;
+        width: 265px;
+        margin-left: -89px;
+        margin-top: 11px;
+    }
+
+
+}
+
+@media (max-width: 320px) {
+    .content-aa img {
+        width: 295px;
+        height: 129px;
+    }
+
+    .content-aa h1 {
+        font-size: 14px;
+    }
+
+    .bolt img {
+        padding-right: 1px;
+    }
+
+    .begin-title h1 {
+        font-size: 18px;
+        padding-right: 148px;
+    }
+
+    .begin-title p {
+        font-size: 12px;
+    }
+
+    .content-aa p {
+        font-size: 9px;
+        padding-top: 78px;
+    }
+
+    .content-block {
+        width: 286px;
+        height: 151px;
+    }
+
+    .content-two button {
+        width: 120px;
+        height: 25px;
+        font-size: 8px;
+        border-radius: 7px;
+    }
+
+    .content-two p {
+        font-size: 9px;
+        padding: 17px 0;
+    }
+
+    .content-two h1 {
+        font-size: 18px;
+        padding-top: 36px;
+    }
+
+    .content-title p {
+        font-size: 8px;
+    }
+
+    .liven-general img {
+        height: 150px;
+        width: 256px;
+        margin-left: -26px;
+        margin-top: 7px;
+    }
+
+    .begin-block img {
+        height: 297px;
+        width: 198px;
+        margin-right: 89px;
+        padding: 12px 3px 0 4px;
+    }
+
+    .about-general img {
+        height: 167px;
+        padding-right: 1px;
+        padding-top: 12px;
+    }
+
+    .about-tw p {
+        font-size: 12px;
+        padding-right: 55px;
+    }
+
+    .about-tw h1 {
+        font-size: 14px;
+    }
+
+    .space-block p {
+        margin-right: 18px;
+    }
+
+    .space-img-one {
+        right: -2px;
+    }
+
+    .space-block h1 {
+        font-size: 17px;
+        margin-right: -40px;
+    }
+
+    .hero-img1 img {
+        width: 101px;
+        height: 176px;
+        left: 170px;
+    }
+
+    .hero-general h1 {
+        font-size: 16px;
+        margin-top: -119px;
+    }
+
+    .hero-general h2 {
+        font-size: 9px;
+        margin-top: 19px;
+    }
+
+    .space {
+        padding: -5px 0;
+    }
+
+    .hero-general button {
+        width: 78px;
+        height: 22px;
+        font-size: 8px;
+    }
+
+    #footer {
+        padding-top: 1px;
+    }
+
+    .menu__btn {
+        top: 3px;
+        right: 21px;
+        width: 21px;
+        height: 26px;
+    }
+
+
+}
